@@ -1,4 +1,4 @@
-YOUR-GITHUB-USERNAME.github.io/
+ssyverse-web.github.io/
 
     index.html
 
